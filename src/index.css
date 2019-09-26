@@ -1,0 +1,13 @@
+.scratchcard_container_0926 {
+  position: relative;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.scratchcard_canvas_0926{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}

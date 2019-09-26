@@ -1,0 +1,16 @@
+{
+  "name": "react-scratchcard",
+  "version": "0.0.1",
+  "description": "react component scratchcard ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "scratchcard"
+  ],
+  "author": "",
+  "license": "ISC"
+}
