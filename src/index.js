@@ -13,7 +13,7 @@ export default class ScratchCard extends PureComponent {
   componentDidMount() {
     this.ctx = this.canvas.getContext('2d');
     const img = new Image();
-    img.src = this.props.maskImageSrc || 'http://localhost:3000/scratch-2x.jpg';
+    img.src = this.props.maskImageSrc || 'https://github.com/1140571314/react-scratchcard/blob/master/src/default.jpg';
     img.crossOrigin = 'Anonymous';
     img.onload = () => {
       this.ctx.drawImage(img, 0, 0);
